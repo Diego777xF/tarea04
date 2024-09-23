@@ -66,4 +66,6 @@ encabezado, contenido y pie de la web
 */
 #cabecera,#contenido,#pie{
     border:1px solid white;
+h1{
+    text-shadow: 2px 4px tomato;
 }
